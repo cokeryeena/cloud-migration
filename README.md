@@ -44,4 +44,3 @@ This project demonstrates a **lift-and-shift migration** of a simple Flask web a
 
 ![Security Group](screenshots/security-group.png)
 
-##trigger
