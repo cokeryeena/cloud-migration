@@ -30,7 +30,7 @@ This project demonstrates a **lift-and-shift migration** of a simple Flask web a
 
  **Flask App Running on Cloud VM**
 
-![App Running on Cloud](screenshots/app-running-on-cloud.png)
+![App Running on Cloud](screenshots/running-on-cloud.png)
 
  **Port Listening Verification**
 
@@ -40,9 +40,6 @@ This project demonstrates a **lift-and-shift migration** of a simple Flask web a
 
 ![Browser Access](screenshots/browser-access.png)
 
- **Security Group Inbound Rules (Optional)**
-
-![Security Group](screenshots/security-group.png)
-
  **Github CICD Success**
+
 ![CICD Success](screenshots/cicd-success.png)
